@@ -1,5 +1,11 @@
-### Hi there 👋
-
+## informatiom personelle
+**Prénom** : *Abdel Fadhyl*
+**Nom** : *DJOI*
+**Age** : *18 ans*
+**Ville** : *Combs-la-Ville*
+**Niveau de compétence** : *Débutant/Avancé*
+**Dernière formation connue** : *ETNA - Prepa*
+---------------
 <!--
 **Abdel-Fadhyl/Abdel-Fadhyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
