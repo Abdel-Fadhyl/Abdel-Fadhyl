@@ -12,7 +12,7 @@
 **Dernière formation connue** : *ETNA - Prepa*
 
 ## Qui suis-je ?
-je m'appelle **Abdel Fadhyl DJOI**, âgé de 18 ans vivant à Combs-la-Ville. Je suis actuellement en stage dans l'entreprise **KODLY** en tant que *développeur web* pour valider ma première année au sein de mon école d'informatique **[l'Etna]**(etna.io/).
+je m'appelle **Abdel Fadhyl DJOI**, âgé de 18 ans vivant à Combs-la-Ville. Je suis actuellement en stage dans l'entreprise **KODLY** en tant que *développeur web* pour valider ma première année au sein de mon école d'informatique **[l'Etna](etna.io/)**.
 
 ### Compétences
 J'ai des compétences en :
