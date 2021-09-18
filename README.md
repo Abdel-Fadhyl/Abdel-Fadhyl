@@ -1,9 +1,14 @@
 ## informatiom personelle
 **Prénom** : *Abdel Fadhyl*
+
 **Nom** : *DJOI*
+
 **Age** : *18 ans*
+
 **Ville** : *Combs-la-Ville*
+
 **Niveau de compétence** : *Débutant/Avancé*
+
 **Dernière formation connue** : *ETNA - Prepa*
 ---------------
 <!--
