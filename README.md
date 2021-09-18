@@ -1,4 +1,4 @@
-## Informatiom personelle
+## Information personnelle
 **Prénom** : *Abdel Fadhyl*
 
 **Nom** : *DJOI*
