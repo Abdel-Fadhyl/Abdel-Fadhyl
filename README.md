@@ -12,7 +12,7 @@
 **Dernière formation connue** : *ETNA - Prepa*
 
 ## Qui suis-je ?
-je m'appelle **Abdel Fadhyl DJOI**, âgé de 19 ans vivant à Combs-la-Ville. Je suis actuellement en alternance dans l'entreprise **PM SA** en tant que *Architecte en Ingénierie Système Réseau* pour valider mon bachelor au sein de mon école d'informatique **[l'Etna](etna.io/)**.
+je m'appelle **Abdel Fadhyl DJOI**, âgé de 19 ans vivant à Combs-la-Ville. Je suis actuellement en alternance dans l'entreprise **[PM SA](https://www.pm-sa.fr/)** en tant que *Architecte en Ingénierie Système Réseau* pour valider mon bachelor au sein de mon école d'informatique **[l'Etna](etna.io/)**.
 
 ### Compétences
 J'ai des compétences en :
