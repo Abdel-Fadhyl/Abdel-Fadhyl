@@ -3,7 +3,7 @@
 
 **Nom** : *DJOI*
 
-**Age** : *18 ans*
+**Age** : *19 ans*
 
 **Ville** : *Combs-la-Ville*
 
@@ -12,7 +12,7 @@
 **Dernière formation connue** : *ETNA - Prepa*
 
 ## Qui suis-je ?
-je m'appelle **Abdel Fadhyl DJOI**, âgé de 18 ans vivant à Combs-la-Ville. Je suis actuellement en stage dans l'entreprise **KODLY** en tant que *développeur web* pour valider ma première année au sein de mon école d'informatique **[l'Etna](etna.io/)**.
+je m'appelle **Abdel Fadhyl DJOI**, âgé de 19 ans vivant à Combs-la-Ville. Je suis actuellement en alternance dans l'entreprise **PM SA** en tant que *Architecte en Ingénierie Système Réseau* pour valider mon bachelor au sein de mon école d'informatique **[l'Etna](etna.io/)**.
 
 ### Compétences
 J'ai des compétences en :
@@ -31,7 +31,7 @@ De plus j'ai déjà travaillé dans les environnement :
 - **Windows**
 - **Mac**
 
-Suite aux nombreux projets que j'ai fait, je suis plus à l'aise en réseaux ou DevOps mais je reste ouvert pour du web.
+Suite aux nombreux projets que j'ai fait, je suis plus à l'aise en administration système et réseaux.
 
 ### Loisirs
 Pendant mon temps libre je joue au football ou regarde des mangas ou encore je joue au jeux vidéo.
