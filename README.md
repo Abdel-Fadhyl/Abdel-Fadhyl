@@ -7,7 +7,7 @@
 
 **Ville** : *Combs-la-Ville*
 
-**Niveau de compétence** : *Débutant/Avancé*
+**Niveau de compétence** : *Bachelor*
 
 **Dernière formation connue** : *ETNA - Prepa*
 
